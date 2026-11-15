@@ -1,0 +1,5 @@
+Language,Method,chrF
+Indonesian,Greedy,69.06
+Indonesian,Beam search (4),69.53
+Balinese,Greedy,46.81
+Balinese,Beam search (4),46.41
