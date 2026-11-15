@@ -1,0 +1,7 @@
+transformers<5
+datasets
+sacrebleu
+accelerate
+sentencepiece
+gradio
+torch
